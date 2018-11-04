@@ -46,11 +46,13 @@ In this project, we are going to create "Personalised Bot" with platform [Kik](h
 <br>
 Fig - Discover BOT option from iOS Kik mobile app is shown here.
 </center>
+<dt>STEP-5: Develop first "Hello World" BOT with Kik</dt>
+<dd>Here is the step-by-step tutorial for developing first "Hello World" personalised BOT with Kik.</dd>
 <dt>STEP-5: Think your own BOT idea</dt>
 <dd>Now, It's time to think your own BOT idea and develop that for this project. As an example, you might want to create a BOT which gives you information about weather, OR gives information about traditions in Auburn University.</dd>
 <dt>STEP-6: Develop your BOT idea</dt>
 <dd>
-Here, I'll upload step-by-step tutorial for developing first "Hello World" personalised BOT with Kik.
+Whatever BOT you create should meet following requirement for full grading.
 </dd>
 </dl>
 

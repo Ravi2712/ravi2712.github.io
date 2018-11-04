@@ -55,7 +55,7 @@ Fig - Discover BOT option from iOS Kik mobile app is shown here.
 </dd>
 <dt>STEP-5: Think your own BOT idea</dt>
 <dd>Now, It's time to think your own BOT idea and develop that for this project. As an example, you might want to create a BOT which gives you information about weather, OR gives information about traditions in Auburn University.</dd>
-<dt>STEP-6: Develop your BOT idea</dt>
+<dt>STEP-6: Develop Kik BOT</dt>
 <dd>
 You need to create only one BOT, which should meet all following requirement for full grading. <br>
 1) (15%) Your BOT should successfully respond to all queries. If BOT knows answer, it should give successful response. If BOT doesn't know answer, it should give response something like "I am not sure,Try again." <br>

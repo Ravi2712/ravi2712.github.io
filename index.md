@@ -18,6 +18,10 @@ In this project, we are going to create "Personalised Bot" with platform [Kik](h
   * System DFD & Use-case Diagrams for Kik BOT (5%)
   * Push project to Bitbucket (5%)
 
+#### Due Date:
+
+* November 24, 2018 | 11:59 PM
+
 #### Deliverables for Project 4:
 
 * Fully runnable project code zip file.
@@ -53,7 +57,12 @@ Fig - Discover BOT option from iOS Kik mobile app is shown here.
 <dd>Now, It's time to think your own BOT idea and develop that for this project. As an example, you might want to create a BOT which gives you information about weather, OR gives information about traditions in Auburn University.</dd>
 <dt>STEP-6: Develop your BOT idea</dt>
 <dd>
-Whatever BOT you create should meet following requirement for full grading.
+You need to create only one BOT, which should meet following requirement for full grading. <br>
+1) Your BOT should successfully respond to all queries. If BOT knows answer, it should give successful response. If BOT doesn't know answer, it should give response something like "I am not sure,Try again." <br>
+2) Every BOT should be responding at least five following birds/animal "images" or any other you wish. Peregrine Falcon, Cheetah, Pronghorn Antelope, Brown Hare, Rhinos. <br>
+3) Every BOT should be responding A
+<br>
+example, 
 </dd>
 </dl>
 

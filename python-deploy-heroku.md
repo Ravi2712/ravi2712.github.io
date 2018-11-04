@@ -28,8 +28,15 @@ More info here: <a href="https://devcenter.heroku.com/articles/getting-started-w
 2) Go to the root directory of project in your terminal with `cd` command.<br>
 3) Run setup file with root permission. `$ python setup.py develop` <br>
 4) Install required dependencies for the project with root permission. `$ pip3 install -r requirements.txt`. <br> <b> Note </b>, If it gives an error pip not found that means, you do not have pip installed. 
-Install pip from here: <a href="https://pip.pypa.io/en/stable/installing/"> Install Pip </a>
+Install pip from here: <a href="https://pip.pypa.io/en/stable/installing/"> Install Pip </a> <br>
+5) Create Heroku app in your terminal, It will ask about your login credentials. `$ heroku create`.
+6) After successfully creation of an app locally, Go to Heroku Dashboard online and follow the steps for deploy. Link here: <a href="https://dashboard.heroku.com/apps"> Heroku Dashboard </a>
 </dd> 
+<center>
+<img src="http://salemount.com/project-4/heroku-deploy.jpeg" alt="heroku Dashboard" style="width:500px;height:300px;">
+<br>
+Fig - Heroku dashboard for newly created app after Login.
+</center>
 
 
 </dl>

@@ -21,19 +21,29 @@ In this project, we are going to create "Personalised Bot" with platform [Kik](h
 #### Deliverables for Project 4:
 
 * Fully runnable project code zip file.
-`Note` Two document file README.md & AUTHORS.md should be included in project zip.
+* `Note` Two document file README.md & AUTHORS.md should be included in project zip.
 
 #### Step-by-step Guide for successfully complete the project:
 
 <dl>
-<dt>STEP-1</dt>
-<dd>Read about, REST API. Do not worry about if you are totally new to Python programming lang. Let's put Python a side, understand the technology REST. Here's the article [REST API] (https://medium.com/@lazlojuly/what-is-a-restful-api-fabb8dc2afeb).</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt>STEP-1: What is REST API?</dt>
+<dd>Do not worry about if you are totally new to Python programming lang. Let's put Python a side, understand the technology REST. Here's the article [REST API] (https://medium.com/@lazlojuly/what-is-a-restful-api-fabb8dc2afeb).</dd>
+<dt>STEP-2: Developing REST API</dt>
+<dd>Once you have familiarity with REST APIs, next step is get your hands dirty with sample REST API demo. 
+[REST API Tutorial] (https://realpython.com/api-integration-in-python/#appendix-rest-in-a-nutshell) </dd>
+<dt>STEP-3: Get started with Kik</dt>
+<dd>
+* Download and install Kik mobile app. 
+* Signup or Login in mobile app Kik.
+* Go to Developer site of Kik and Login: (https://dev.kik.com/#/docs/getting-started)</dd>
+<dt>STEP-4: Get familiar with some existing BOTs in Kik mobile app</dt>
+<dd>In mobile app, select "Discover BOT" and you can get familiar with any BOT you would like to explore.</dd>
+<dt>STEP-5: Think your own BOT idea</dt>
+<dd>Now, It's time to think your own BOT idea and develop that for this project. As an example, you might want to create a BOT which gives you information about weather, OR gives information about traditions in Auburn University.</dd>
+<dt>STEP-6: Develop your BOT idea</dt>
+<dd>
+Here, I'll upload step-by-step tutorial for developing first "Hello World" personalised BOT with Kik.
+</dd>
 </dl>
 
 #### Notes:

@@ -8,9 +8,9 @@ In this project, we are going to create "Personalised Bot" with platform [Kik](h
 
 * Python programming language
 * REST API
-* 3rd party platform use
+* 3rd party platform use - Kik
 
-#### This project consists of following mandatory parts, Docs & Bonus:
+#### This project consists of following Mandatory parts, Docs & Bonus:
 * Sample REST API (25%)
 * Kik BOT (60%)
 * Doc files (README.md & AUTHORS.md) (15%)
@@ -27,7 +27,7 @@ In this project, we are going to create "Personalised Bot" with platform [Kik](h
 
 <dl>
 <dt>STEP-1</dt>
-<dd>Read about, REST API. Do not worry about if you are totally new to Python programming lang. Let's put Python a side, understand the technology REST. Here's the article: https://medium.com/@lazlojuly/what-is-a-restful-api-fabb8dc2afeb</dd>
+<dd>Read about, REST API. Do not worry about if you are totally new to Python programming lang. Let's put Python a side, understand the technology REST. Here's the article [REST API] (https://medium.com/@lazlojuly/what-is-a-restful-api-fabb8dc2afeb).</dd>
 <dt>Born</dt>
 <dd>1952</dd>
 <dt>Birthplace</dt>

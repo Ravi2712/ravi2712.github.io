@@ -41,7 +41,7 @@ In this project, we are going to create "Personalised Bot" with platform [Kik](h
 </dd>
 <dt>STEP-4: Get familiar with some existing BOTs in Kik mobile app</dt>
 <dd>After successful login in mobile app, select "Discover BOT" option and you can get familiar with any BOT you would like to explore. As an example, search for this BOT: "Ask a Bot, get answers in GC"</dd>
-<img src="http://salemount.com/project-4/kik-discover-bot.jpeg" alt="Kik Discover BOT" style="width:50px;height:70px;">
+<img src="http://salemount.com/project-4/kik-discover-bot.jpeg" alt="Kik Discover BOT" style="width:250px;height:400px;">
 <dt>STEP-5: Think your own BOT idea</dt>
 <dd>Now, It's time to think your own BOT idea and develop that for this project. As an example, you might want to create a BOT which gives you information about weather, OR gives information about traditions in Auburn University.</dd>
 <dt>STEP-6: Develop your BOT idea</dt>

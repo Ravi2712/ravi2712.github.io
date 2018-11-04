@@ -34,10 +34,11 @@ In this project, we are going to create "Personalised Bot" with platform [Kik](h
 </dd>
 <dt>STEP-3: Get started with Kik</dt>
 <dd>
-<tr> Download and install Kik mobile app. </tr>
-<tr> Signup or Login in mobile app Kik. </tr>
-<tr> <a href="https://dev.kik.com/#/docs/getting-started"> Go to Developer site of Kik and Login </a> </tr>
-<tr> Do not worry about How to use the doc, we will discuss in class demo as well as, I will send announcements periodically.</tr></dd>
+Download and install Kik mobile app. <br>
+Signup or Login in mobile app Kik. <br>
+<a href="https://dev.kik.com/#/docs/getting-started"> Go to Developer site of Kik and Login </a> <br>
+Do not worry about How to use the doc, we will discuss in class demo as well as, I will send announcements periodically. <br>
+</dd>
 <dt>STEP-4: Get familiar with some existing BOTs in Kik mobile app</dt>
 <dd>In mobile app, select "Discover BOT" and you can get familiar with any BOT you would like to explore. As an example, search for this BOT: "Ask a Bot, get answers in GC"</dd>
 <dt>STEP-5: Think your own BOT idea</dt>

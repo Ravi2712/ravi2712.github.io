@@ -20,7 +20,7 @@ In this project, we are going to create "Personalised Bot" with platform [Kik](h
 
 #### Due Date:
 
-* November 24, 2018 | 11:59 PM
+November 24, 2018 | 11:59 PM
 
 #### Deliverables for Project 4:
 

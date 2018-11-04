@@ -50,13 +50,18 @@ November 24, 2018 | 11:59 PM
 <br>
 Fig - Discover BOT option from iOS Kik mobile app is shown here.
 </center>
-<dt>STEP-5: Develop first "Hello World" BOT with Kik</dt>
-<dd>Here is the step-by-step tutorial for developing first "Hello World" personalised BOT with Kik. <a href="#"> Hello World - kik BOT. </a> <br> 
-Also, You can Download this starter project zip from Canvas.
+<dt>STEP-5: Deploy project to cloud - Heroku</dt>
+<dd>Here is the step-by-step tutorial for deploying project to Heorku free cloud service.<br>
+<a href="#"> Deploy Python Project to Heroku Cloud. </a> 
 </dd>
-<dt>STEP-5: Think about your own BOT idea</dt>
+<dt>STEP-6: Develop first "Hello World" BOT with Kik</dt>
+<dd>Here is the step-by-step tutorial for developing first "Hello World" personalised BOT with Kik. <br> 
+Also, You can Download this starter project zip from Canvas. <br>
+<a href="#"> Hello World - kik BOT. </a> 
+</dd>
+<dt>STEP-7: Think about your own BOT idea</dt>
 <dd>Now, It's time to think your own BOT idea and develop that for this project. As an example, you might want to create a BOT which gives you information about weather, OR gives information about traditions in Auburn University.</dd>
-<dt>STEP-6: Develop Kik BOT</dt>
+<dt>STEP-8: Develop Kik BOT</dt>
 <dd>
 You need to create only one BOT, which should meet all following requirement for full grading. <br>
 1) (15%) Your BOT should successfully respond to all queries. If BOT knows answer, it should give successful response. If BOT doesn't know answer, it should give response something like "I am not sure,Try again." <br>

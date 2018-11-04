@@ -62,8 +62,10 @@ You need to create only one BOT, which should meet all following requirement for
 2) (20%) Every BOT should be responding at least five following birds/animal "images" or any other you wish. e.g. Peregrine Falcon, Cheetah, Pronghorn Antelope, Brown Hare, Rhinos. <br>
 3) (15%) Every BOT should be responding address for given Latitude & Longitude using Google Maps API. This task will be shown as demo in class. e.g If asked "Address: 12.3413, 34.4355", It should respond: 123 Some Ave, Auburn, AL - 12345. <br>
 4) (10%) Your own idea or features for BOT. Whatever feature you create for your BOT, mention in README.
-<br>
-example, 
+<img src="http://salemount.com/project-4/kik-discover-bot.jpeg" alt="Kik Discover BOT" style="width:150px;height:225px;">
+<img src="http://salemount.com/project-4/kik-discover-bot.jpeg" alt="Kik Discover BOT" style="width:150px;height:225px;">
+<img src="http://salemount.com/project-4/kik-discover-bot.jpeg" alt="Kik Discover BOT" style="width:150px;height:225px;">
+
 </dd>
 </dl>
 

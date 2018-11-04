@@ -34,13 +34,13 @@ In this project, we are going to create "Personalised Bot" with platform [Kik](h
 </dd>
 <dt>STEP-3: Get started with Kik</dt>
 <dd>
-Download and install Kik mobile app. <br>
-Signup or Login in mobile app Kik. <br>
-<a href="https://dev.kik.com/#/docs/getting-started"> Go to Developer site of Kik and Login </a> <br>
-Do not worry about How to use the doc, we will discuss in class demo as well as, I will send announcements periodically. <br>
+1) Download and install Kik mobile app. <br>
+2) Signup or Login in mobile app Kik. <br>
+3) <a href="https://dev.kik.com/#/docs/getting-started"> Go to Developer site of Kik and Login </a> <br>
+<b> Note </b> Do not worry about How to use the doc, we will discuss in class demo as well as, I will send announcements periodically. <br>
 </dd>
 <dt>STEP-4: Get familiar with some existing BOTs in Kik mobile app</dt>
-<dd>In mobile app, select "Discover BOT" and you can get familiar with any BOT you would like to explore. As an example, search for this BOT: "Ask a Bot, get answers in GC"</dd>
+<dd>In mobile app, select "Discover BOT" option and you can get familiar with any BOT you would like to explore. As an example, search for this BOT: "Ask a Bot, get answers in GC"</dd>
 <dt>STEP-5: Think your own BOT idea</dt>
 <dd>Now, It's time to think your own BOT idea and develop that for this project. As an example, you might want to create a BOT which gives you information about weather, OR gives information about traditions in Auburn University.</dd>
 <dt>STEP-6: Develop your BOT idea</dt>

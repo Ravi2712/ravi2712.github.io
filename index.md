@@ -2,7 +2,7 @@
 layout: default
 ---
 
-In this project, we are going to create "Personalised Bot" with platform [Kik](https://dev.kik.com/#/docs/getting-started). `Note` This project is fully self learning project. There will be multiple concepts you have to learn by yourself. This project requires approx 25-30 Hours depending on your practice of coding. If you'r stuck or need help, reach out to TA(Jay Patel, jsp0053@auburn.edu) in office hours.
+In this project, we are going to create "Personalised Bot" with platform [Kik](https://dev.kik.com/#/docs/getting-started). `Note` This project is fully self learning project. There will be multiple concepts you have to learn by yourself. This project requires approx 25-30 Hours depending on your practice of coding. If you'r stuck or need help, reach out to TA(Jay Patel, jsp0053@auburn.edu) in office hours. 
 
 #### Learning objectives
 
@@ -27,10 +27,11 @@ In this project, we are going to create "Personalised Bot" with platform [Kik](h
 
 <dl>
 <dt>STEP-1: What is REST API?</dt>
-<dd>Do not worry about if you are totally new to Python programming lang. Let's put Python a side, understand the technology REST. Here's the article [REST API] (https://medium.com/@lazlojuly/what-is-a-restful-api-fabb8dc2afeb).</dd>
+<dd>Do not worry about if you are totally new to Python programming lang. Let's put Python a side, understand the technology REST. Here's the article: <a href="https://medium.com/@lazlojuly/what-is-a-restful-api-fabb8dc2afeb"> REST API </a>
+</dd>
 <dt>STEP-2: Developing REST API</dt>
-<dd>Once you have familiarity with REST APIs, next step is get your hands dirty with sample REST API demo. 
-[REST API Tutorial] (https://realpython.com/api-integration-in-python/#appendix-rest-in-a-nutshell) </dd>
+<dd>Once you have familiarity with REST APIs, next step is get your hands dirty with sample REST API demo.<a href="https://realpython.com/api-integration-in-python/#appendix-rest-in-a-nutshell"> REST API Tutorial </a>
+</dd>
 <dt>STEP-3: Get started with Kik</dt>
 <dd>
 * Download and install Kik mobile app. 

@@ -2,32 +2,9 @@
 layout: default
 ---
 
-In this project, we are going to create "Personalised Bot" with platform [Kik](https://dev.kik.com/#/docs/getting-started). `Note` This project is fully self learning project. There will be multiple concepts you have to learn by yourself. This project requires approx 25-30 Hours depending on your practice of coding. If you'r stuck or need help, reach out to TA(Jay Patel, jsp0053@auburn.edu) in office hours. 
+In this tutorial, we are going to deploy our Python Project to Heroku cloud. 
 
-#### Learning objectives
-
-* Python programming language
-* REST API
-* 3rd party platform use - Kik
-
-#### This project consists of following Mandatory parts, Docs & Bonus:
-* Sample REST API (25%)
-* Kik BOT (60%)
-* Doc files (README.md & AUTHORS.md) (15%)
-* Bonus: 
-  * System DFD & Use-case Diagrams for Kik BOT (5%)
-  * Push project to Bitbucket (5%)
-
-#### Due Date:
-
-December 2, 2018 | 11:59 PM
-
-#### Deliverables for Project 4:
-
-* Fully runnable project code zip file.
-* `Note` Two document files README.md & AUTHORS.md should be included in project zip.
-
-#### Step-by-step Guide for successfully complete the project:
+### Deploy to Heroku
 
 <dl>
 <dt>STEP-1: What is REST API?</dt>
@@ -52,9 +29,8 @@ Fig - Discover BOT option from iOS Kik mobile app is shown here.
 </center>
 <dt>STEP-5: Deploy project to cloud - Heroku</dt>
 <dd>Here is the step-by-step tutorial for deploying project to Heorku free cloud service.<br>
-<a href="./docs/python-deploy-heroku.md"> Deploy Python Project to Heroku Cloud. </a> 
-
-[Link to another page](./another-page.html).</dd>
+<a href="#"> Deploy Python Project to Heroku Cloud. </a> 
+</dd>
 <dt>STEP-6: Develop first "Hello World" BOT with Kik</dt>
 <dd>Here is the step-by-step tutorial for developing first "Hello World" personalised BOT with Kik. <br> 
 Also, You can Download this starter project zip from Canvas. <br>

@@ -52,9 +52,8 @@ Fig - Discover BOT option from iOS Kik mobile app is shown here.
 </center>
 <dt>STEP-5: Deploy project to cloud - Heroku</dt>
 <dd>Here is the step-by-step tutorial for deploying project to Heorku free cloud service.<br>
-<a href="./docs/python-deploy-heroku.html"> Deploy Python Project to Heroku Cloud. </a> 
-
-[Link to another page](./another-page.html).</dd>
+<a href="./python-deploy-heroku.html"> Deploy Python Project to Heroku Cloud. </a> 
+</dd>
 <dt>STEP-6: Develop first "Hello World" BOT with Kik</dt>
 <dd>Here is the step-by-step tutorial for developing first "Hello World" personalised BOT with Kik. <br> 
 Also, You can Download this starter project zip from Canvas. <br>

@@ -57,10 +57,10 @@ Fig - Discover BOT option from iOS Kik mobile app is shown here.
 <dd>Now, It's time to think your own BOT idea and develop that for this project. As an example, you might want to create a BOT which gives you information about weather, OR gives information about traditions in Auburn University.</dd>
 <dt>STEP-6: Develop your BOT idea</dt>
 <dd>
-You need to create only one BOT, which should meet following requirement for full grading. <br>
+You need to create only one BOT, which should meet all following requirement for full grading. <br>
 1) (15%) Your BOT should successfully respond to all queries. If BOT knows answer, it should give successful response. If BOT doesn't know answer, it should give response something like "I am not sure,Try again." <br>
 2) (20%) Every BOT should be responding at least five following birds/animal "images" or any other you wish. e.g. Peregrine Falcon, Cheetah, Pronghorn Antelope, Brown Hare, Rhinos. <br>
-3) (15%) Every BOT should be responding address for given Latitude & Longitude using Google Maps API. This task will be shown as demo in class. e.g If asked "Address: 12.3413, 34.4355", It should respond: 123 Some Ave, Auburn, AL - 12345.
+3) (15%) Every BOT should be responding address for given Latitude & Longitude using Google Maps API. This task will be shown as demo in class. e.g If asked "Address: 12.3413, 34.4355", It should respond: 123 Some Ave, Auburn, AL - 12345. <br>
 4) (10%) Your own idea or features for BOT. Whatever feature you create for your BOT, mention in README.
 <br>
 example, 

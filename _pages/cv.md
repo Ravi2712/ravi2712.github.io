@@ -5,7 +5,7 @@ permalink: /files/Resume_JP_PhD_SUNY.pdf
 author_profile: true
 redirect_from:
   - /resume
-  - /cv
+  - /cv/
 ---
 
 {% include base_path %}

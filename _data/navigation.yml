@@ -15,8 +15,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    url: /files/Resume_JP_PhD_SUNY.pdf
+  - title: "Resume"
+    url: /files/Resume_JP_PhD_SUNY_P.pdf
     
   #- title: "Guide"
   #  url: /markdown/

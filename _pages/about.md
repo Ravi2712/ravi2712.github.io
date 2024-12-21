@@ -16,8 +16,7 @@ Computational Social Science, Network Science, AI/ML
 *	My research interest involves studying large-scale data from social media platforms like Reddit, Twitter, and 4chan by applying **Statistical methods**, **NLP Techniques (LLM)** and **Computer vision**.
 * My most recent research focuses on developing an automated social media moderation system using open-source **Llama 3.1 (LLM) models**.
 * I also work on understanding memes and videos that propagate misinformation using **multimodal fusion techniques**.
-*	Another direction in my research is detecting coordinated groups from social media platforms using **Graph-algorithms (Social Networks)** in an **unsupervised** fashion.
-
+<!-- *	Another direction in my research is detecting coordinated groups from social media platforms using **Graph-algorithms (Social Networks)** in an **unsupervised** fashion. -->
 <!-- During master's degree at Auburn University, I gained knowledge on **developing AI agents** using Evolutionary algorithms that evolves human-interpreted strategies through Genetic programming. -->
 
 News
@@ -32,6 +31,10 @@ News
 
 --------------------------------
 
+📚 **Dec 2024** --> Two papers submitted to ACL ARR '25
+
+* (In-Submission 🥘) Content Moderation using Large Language Model (LLMs)
+  * Link: Preprint coming soon...
 
 📚 **Sep 2024** --> Paper submitted to ICWSM '25
 

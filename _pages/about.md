@@ -11,10 +11,10 @@ I'm a Ph.D. candidate in the [iDRAMA Lab](http://idrama.science) under the guida
 
 Research Work
 ======
-Computational Social Science, Network Science, AI/ML
+Computational Social Science, AI (NLP), Network Science
 
-*	My research interest involves studying large-scale data from social media platforms like Reddit, Twitter, and 4chan by applying **Statistical methods**, **NLP Techniques (LLM)** and **Computer vision**.
-* My most recent research focuses on developing an automated social media moderation system using open-source **Llama 3.1 (LLM) models**.
+*	My research interest involves studying large-scale data from social media platforms like Reddit, Twitter, and 4chan by applying **Statistical methods**, **NLP techniques (e.g., LLM)** and **Computer vision**.
+* My most recent research focuses on developing an automated social media content moderation system using open-source **Llama 3.1 (LLM) models**.
 * I also work on understanding memes and videos that propagate misinformation using **multimodal fusion techniques**.
 <!-- *	Another direction in my research is detecting coordinated groups from social media platforms using **Graph-algorithms (Social Networks)** in an **unsupervised** fashion. -->
 <!-- During master's degree at Auburn University, I gained knowledge on **developing AI agents** using Evolutionary algorithms that evolves human-interpreted strategies through Genetic programming. -->
@@ -50,11 +50,13 @@ News
           Submitted (2) papers to ACL ARR '25
           <ul>
             <li>(In-Submission 🥘) Content Moderation using Large Language Models (LLMs)</li>
-            <ul><li>Paper link: <a href="https://scholar.google.com/citations?user=8SNiVc4AAAAJ&hl=en">Preprint coming soon...</a></li></ul>
+            <ul><li>Preprint coming soon...</li></ul>
+            <!-- <ul><li>Paper link: <a href="https://scholar.google.com/citations?user=8SNiVc4AAAAJ&hl=en">Preprint coming soon...</a></li></ul> -->
           </ul>
           <ul>
             <li>(In-Submission 🥘) Using theoretical framework to evaluate large documents in automated fashion</li>
-            <ul><li>Paper link: <a href="https://scholar.google.com/citations?user=8SNiVc4AAAAJ&hl=en">Preprint coming soon...</a></li></ul>
+            <ul><li>Preprint coming soon...</li></ul>
+            <!-- <ul><li>Paper link: <a href="https://scholar.google.com/citations?user=8SNiVc4AAAAJ&hl=en">Preprint coming soon...</a></li></ul> -->
           </ul>
       </td>
     </tr>

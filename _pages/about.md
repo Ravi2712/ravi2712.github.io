@@ -25,54 +25,155 @@ News
 --------------------------------
 
 📚 -- Research Papers
+
 🏆 -- Achievements
+
 🎥 -- Public Presentations
+
 📸 -- Media
 
 --------------------------------
 
-📚 **Dec 2024** --> Two papers submitted to ACL ARR '25
-
-* (In-Submission 🥘) Content Moderation using Large Language Model (LLMs)
-  * Link: Preprint coming soon...
-
-📚 **Sep 2024** --> Paper submitted to ICWSM '25
-
-* (In-Submission 🥘) Understanding podcasts from Youtube and Rumble 
-  * Link: [Podcast-Outcasts-Paper](https://arxiv.org/abs/2406.14460)
-
-🎥 **June 2024** --> Presented Paper at ICWSM '24 @Buffalo, NY, USA
-
-📚 **May 2024** --> 101 Multilingual Aya-Dataset paper accepted to ACL
-
-* (Accepted ✅) Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning
-  * Lead contributor to process & release 513 million dataset on Huggingface [Aya-Collection](https://huggingface.co/datasets/CohereForAI/aya_collection)
-  * Link: [Aya-Paper](https://arxiv.org/abs/2402.06619)
-
-📚 **Jan 2024** --> Two papers submitted to ICWSM '24
-
-* (Accepted ✅) Large-scale dataset from Alternative platform 
-  * Link: [iDRAMA-Scored-2024-Paper](https://ojs.aaai.org/index.php/ICWSM/article/view/31444)
-* (Accepted ✅) Large-scale dataset of Podcasts from Rumble 
-  * Link: [iDRAMA-Rumble-2024-Paper](https://workshop-proceedings.icwsm.org/pdf/2024_07.pdf)
-
-🎥 **OCT 2023** --> Presented Poster at SUNY-AI Symposium @Albany, NY, USA
-  * Detecting Extremist Symbols from Web-Images
-    * Link: [Extremism-Poster](https://drive.google.com/file/d/10qklakUNNcrYEaSfaJHsxbcEnsr4XKS_/view)
-
-📚 **Oct 2023** --> Submitted paper to WWW '24 
-  * (Rejected 🔴) Understanding community migration from Reddit to Alternative platforms
-
-**Aug 2023** --> Started contributing as Gujarati Language Ambassador for "Aya open-source multilingual project" by Cohere For AI ([Cohere For AI: Aya-project](https://cohere.com/research/aya))
-
-📚 **May 2023** --> Submitted paper to ICWSM '24 
-  * From HODL to MOON: Understanding Crypto communities on Reddit 
-    * (In-Revision 🥘) Link: [Crypto-Reddit-Community-Paper](https://arxiv.org/abs/2312.08394)
-
-🏆 **DEC 2022** --> Ph.D. candidate now. 🥳
-
-📸 **SEP 2022** --> Media coverage in the [USAToday](https://drive.google.com/file/d/1beU3W5MGDkifbrsc4IagDvfaMys2pUPD/view?usp=sharing) for building a **Computer vision** model to detect Kekistani flag from 1 million 4chan images. [Propoganda of digital age: How memes are weaponized to spread disinformation](https://www.benton.org/content/propaganda-digital-age-how-memes-are-weaponized-spread-disinformation-usa-today)
-
-**SEP 2021** --> Joined a Ph.D. program at SUNY-Binghamton.
-
-🎓 **JULY 2021** --> Graduated with Master's degree focused on AI from Auburn University, Alabama.
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>📚</td>
+      <td>Dec 2024</td>
+      <td>
+          Submitted (2) papers to ACL ARR '25
+          <ul>
+            <li>(In-Submission 🥘) Content Moderation using Large Language Models (LLMs)</li>
+            <ul><li>Paper link: <a href="https://scholar.google.com/citations?user=8SNiVc4AAAAJ&hl=en">Preprint coming soon...</a></li></ul>
+          </ul>
+          <ul>
+            <li>(In-Submission 🥘) Using theoretical framework to evaluate large documents in automated fashion</li>
+            <ul><li>Paper link: <a href="https://scholar.google.com/citations?user=8SNiVc4AAAAJ&hl=en">Preprint coming soon...</a></li></ul>
+          </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>📚</td>
+      <td>Sep 2024</td>
+      <td>
+          Submitted a paper to ICWSM '25
+          <ul>
+            <li>(In-Submission 🥘) Understanding podcasts from Youtube and Rumble</li>
+            <li>Paper link: <a href="https://arxiv.org/abs/2406.14460">Podcast-Outcasts-Paper</a></li>
+          </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>🎥</td>
+      <td>June 2024</td>
+      <td>Presented a paper at AAAI ICWSM '24 @Buffalo, NY, USA
+      </td>
+    </tr>
+    <tr>
+      <td>📚</td>
+      <td>Feb 2024</td>
+      <td>
+          Submitted a paper to ACL '24 (Cohere For AI)
+          <ul>
+            <li>(Accepted ✅) Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning</li>
+            <ul><li>Paper link: <a href="https://arxiv.org/abs/2402.06619">CohereForAI-Aya-Paper</a></li></ul>
+            <ul><li>Dataset link: <a href="https://huggingface.co/datasets/CohereForAI/aya_collection">Aya-Collection-HF</a></li></ul>
+          </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>📚</td>
+      <td>Jan 2024</td>
+      <td>
+          Two papers submitted to ICWSM '24
+          <ul>
+            <li>(Accepted ✅) Large-scale dataset of an alternative platform - Scored (i.e., communities.win)</li>
+            <ul><li>Paper link: <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/31444">iDRAMA-Scored-2024</a></li></ul>
+            <ul><li>Dataset link: <a href="https://huggingface.co/datasets/iDRAMALab/iDRAMA-scored-2024">Scored-Dataset-HF</a></li></ul>
+          </ul>
+          <ul>
+            <li>(Accepted ✅) Large-scale dataset of podcasts from Rumble</li>
+            <ul><li>Paper link: <a href="https://workshop-proceedings.icwsm.org/pdf/2024_07.pdf">iDRAMA-Rumble-2024</a></li></ul>
+            <ul><li>Dataset link: <a href="https://huggingface.co/datasets/iDRAMALab/iDRAMA-rumble-2024">Rumble-Dataset-HF</a></li></ul>
+          </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>🎥</td>
+      <td>Oct 2023</td>
+      <td>
+          Presented a poster at SUNY-AI Symposium @Albany, NY, USA
+          <ul>
+            <li>Detecting Extremist Symbols from Web-Images.</li>
+            <li>Poster link: <a href="https://drive.google.com/file/d/10qklakUNNcrYEaSfaJHsxbcEnsr4XKS_/view">Extremism-Poster</a></li>
+          </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>📚</td>
+      <td>Oct 2023</td>
+      <td>Submitted a paper to WWW '24
+        <ul>
+          <li>(Rejected 🔴) Understanding community migration from Reddit to Alternative platforms</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Aug 2023</td>
+      <td>
+        Started contributing as a Gujarati language ambassador for "Aya open-source multilingual" project by Cohere For AI
+          <ul>
+            <li>Project link: <a href="https://cohere.com/research/aya">Cohere For AI: Aya-project</a></li>
+          </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>📚</td>
+      <td>May 2023</td>
+      <td>
+        From HODL to MOON: Understanding Crypto communities on Reddit
+          <ul>
+            <li>(In-Revision 🥘) Paper link: <a href="https://arxiv.org/abs/2312.08394">Crypto-Reddit-Community-Paper</a></li>
+          </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>🏆</td>
+      <td>Dec 2022</td>
+      <td>
+        Ph.D. candidate now.
+      </td>
+    </tr>
+    <tr>
+      <td>📸</td>
+      <td>Sep 2022</td>
+      <td>
+          Media coverage in the <a href="https://drive.google.com/file/d/1beU3W5MGDkifbrsc4IagDvfaMys2pUPD/view?usp=sharing">USAToday's</a> article for building a computer vision model to detect Kekistani flag from 1-Million 4chan images.
+          <ul>
+            <li>Article link: <a href="https://www.benton.org/content/propaganda-digital-age-how-memes-are-weaponized-spread-disinformation-usa-today">Propoganda of digital age: How memes are weaponized to spread disinformation</a></li>
+          </ul>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Sep 2021 </td>
+      <td>
+        Joined a Ph.D. program at SUNY-Binghamton.
+      </td>
+    </tr>
+    <tr>
+      <td>🎓</td>
+      <td>July 2021</td>
+      <td>
+        Graduated with Master’s degree focused on AI-agents (Evolutionary Computing) from Auburn University, Alabama.
+      </td>
+    </tr>
+  </tbody>
+</table>

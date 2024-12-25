@@ -11,6 +11,9 @@ I'm a Ph.D. candidate in the [iDRAMA Lab](http://idrama.science) under the guida
 
 Research Work
 ======
+
+<!-- [Google Scholar](https://scholar.google.com/citations?user=8SNiVc4AAAAJ&hl=en) -->
+
 Computational Social Science, AI (NLP), Network Science
 
 *	My research interest involves studying large-scale data from social media platforms like Reddit, Twitter, and 4chan by applying **Statistical methods**, **NLP techniques (e.g., LLM)** and **Computer vision**.
@@ -31,8 +34,6 @@ News
 🎥 -- Public Presentations
 
 📸 -- Media
-
---------------------------------
 
 <table>
   <thead>

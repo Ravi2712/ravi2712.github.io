@@ -1,0 +1,17 @@
+#!/bin/sh
+# Pre-commit hook: auto-redact resume PDF before every commit.
+
+RESUME="files/Resume_JP_PhD_SUNY_P.pdf"
+
+# Only run if the resume is staged
+if git diff --cached --name-only | grep -q "$RESUME"; then
+    echo "Redacting sensitive info from resume..."
+    python3 redact_resume.py
+    if [ $? -ne 0 ]; then
+        echo "Redaction failed. Aborting commit."
+        exit 1
+    fi
+    # Re-stage the redacted version
+    git add "$RESUME"
+    echo "Resume redacted and re-staged."
+fi
